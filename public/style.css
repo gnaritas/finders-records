@@ -37,7 +37,7 @@ nav a.on{color:#fff;box-shadow:inset 0 -3px 0 var(--amber)}
 .disc{position:relative;width:330px;max-width:78vw;aspect-ratio:1;border-radius:50%;background:repeating-radial-gradient(circle at 50% 50%,#100e0b 0 2px,#1d1a15 2px 5px);box-shadow:0 24px 52px rgba(0,0,0,.5);animation:spin 26s linear infinite}
 .disc::before{content:"";position:absolute;inset:31%;border-radius:50%;background:radial-gradient(circle at 50% 38%,var(--green2),var(--green) 70%)}
 .disc .f{position:absolute;inset:31%;display:grid;place-items:center;align-content:center;font:800 52px/1 var(--disp);color:#f4f8f2;text-align:center}
-.disc .f small{display:block;font:700 10px/1.9 var(--mono);letter-spacing:.24em;text-transform:uppercase;color:#cfe4d3;margin-top:10px}
+.disc .f small{display:block;font:700 11.5px/1.7 var(--mono);letter-spacing:.18em;text-transform:uppercase;color:#cfe4d3;margin-top:10px}
 .disc::after{content:"";position:absolute;left:50%;top:50%;width:12px;height:12px;margin:-6px 0 0 -6px;border-radius:50%;background:var(--paper)}
 @keyframes spin{to{transform:rotate(360deg)}}
 @media (prefers-reduced-motion:reduce){.disc{animation:none}}
