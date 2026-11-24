@@ -1,0 +1,1063 @@
+{
+ "desktop-index": {
+  "iw": 1280,
+  "sw": 1280,
+  "overflow": [],
+  "smallN": 0,
+  "smallSample": [],
+  "broken": 0,
+  "blocks": [
+   {
+    "tag": "SECTION.hero",
+    "top": 74,
+    "bottom": 656,
+    "h": 582
+   },
+   {
+    "tag": "SECTION.sec",
+    "top": 656,
+    "bottom": 1202,
+    "h": 546
+   },
+   {
+    "tag": "SECTION.stats",
+    "top": 1202,
+    "bottom": 1374,
+    "h": 172
+   },
+   {
+    "tag": "SECTION.sec",
+    "top": 1374,
+    "bottom": 2148,
+    "h": 774
+   }
+  ],
+  "tags": [
+   {
+    "t": "Call us",
+    "l": 1053,
+    "rgt": 1156,
+    "top": 14,
+    "sz": "12px"
+   },
+   {
+    "t": "Call (419) 352-767",
+    "l": 124,
+    "rgt": 328,
+    "top": 540,
+    "sz": "12px"
+   },
+   {
+    "t": "Get directions",
+    "l": 342,
+    "rgt": 504,
+    "top": 540,
+    "sz": "12px"
+   }
+  ],
+  "frames": [],
+  "navTrunc": false,
+  "textLen": 2872,
+  "status": 200
+ },
+ "desktop-shop": {
+  "iw": 1280,
+  "sw": 1280,
+  "overflow": [],
+  "smallN": 0,
+  "smallSample": [],
+  "broken": 0,
+  "blocks": [
+   {
+    "tag": "SECTION.sec",
+    "top": 74,
+    "bottom": 1155,
+    "h": 1081
+   }
+  ],
+  "tags": [
+   {
+    "t": "Call us",
+    "l": 1053,
+    "rgt": 1156,
+    "top": 14,
+    "sz": "12px"
+   },
+   {
+    "t": "Deep cut \u00b7 details",
+    "l": 1002,
+    "rgt": 1156,
+    "top": 423,
+    "sz": "11.5px"
+   },
+   {
+    "t": "details",
+    "l": 1096,
+    "rgt": 1156,
+    "top": 464,
+    "sz": "11.5px"
+   },
+   {
+    "t": "details",
+    "l": 1096,
+    "rgt": 1156,
+    "top": 505,
+    "sz": "11.5px"
+   },
+   {
+    "t": "Expanded section",
+    "l": 1019,
+    "rgt": 1156,
+    "top": 547,
+    "sz": "11.5px"
+   },
+   {
+    "t": "details",
+    "l": 1096,
+    "rgt": 1156,
+    "top": 588,
+    "sz": "11.5px"
+   },
+   {
+    "t": "Hardware",
+    "l": 1088,
+    "rgt": 1156,
+    "top": 629,
+    "sz": "11.5px"
+   },
+   {
+    "t": "New at Finders 2.0",
+    "l": 1002,
+    "rgt": 1156,
+    "top": 670,
+    "sz": "11.5px"
+   },
+   {
+    "t": "Arriving now",
+    "l": 1054,
+    "rgt": 1156,
+    "top": 712,
+    "sz": "11.5px"
+   },
+   {
+    "t": "Planned",
+    "l": 1096,
+    "rgt": 1156,
+    "top": 753,
+    "sz": "11.5px"
+   }
+  ],
+  "frames": [],
+  "navTrunc": false,
+  "textLen": 1628,
+  "status": 200
+ },
+ "desktop-vinyl": {
+  "iw": 1280,
+  "sw": 1280,
+  "overflow": [],
+  "smallN": 0,
+  "smallSample": [],
+  "broken": 0,
+  "blocks": [
+   {
+    "tag": "SECTION.sec",
+    "top": 74,
+    "bottom": 700,
+    "h": 625
+   },
+   {
+    "tag": "SECTION.sec",
+    "top": 700,
+    "bottom": 1192,
+    "h": 492
+   }
+  ],
+  "tags": [
+   {
+    "t": "Call us",
+    "l": 1053,
+    "rgt": 1156,
+    "top": 14,
+    "sz": "12px"
+   },
+   {
+    "t": "Call the shop",
+    "l": 124,
+    "rgt": 278,
+    "top": 1087,
+    "sz": "12px"
+   },
+   {
+    "t": "Directions",
+    "l": 292,
+    "rgt": 420,
+    "top": 1087,
+    "sz": "12px"
+   },
+   {
+    "t": "Yes",
+    "l": 1104,
+    "rgt": 1130,
+    "top": 837,
+    "sz": "11.5px"
+   },
+   {
+    "t": "New for 2026",
+    "l": 1028,
+    "rgt": 1130,
+    "top": 879,
+    "sz": "11.5px"
+   },
+   {
+    "t": "In stock",
+    "l": 1062,
+    "rgt": 1130,
+    "top": 920,
+    "sz": "11.5px"
+   },
+   {
+    "t": "Ask at the counter",
+    "l": 976,
+    "rgt": 1130,
+    "top": 961,
+    "sz": "11.5px"
+   }
+  ],
+  "frames": [],
+  "navTrunc": false,
+  "textLen": 1881,
+  "status": 200
+ },
+ "desktop-cds": {
+  "iw": 1280,
+  "sw": 1280,
+  "overflow": [],
+  "smallN": 0,
+  "smallSample": [],
+  "broken": 0,
+  "blocks": [
+   {
+    "tag": "SECTION.sec",
+    "top": 74,
+    "bottom": 714,
+    "h": 639
+   },
+   {
+    "tag": "SECTION.sec",
+    "top": 714,
+    "bottom": 1311,
+    "h": 597
+   }
+  ],
+  "tags": [
+   {
+    "t": "Call us",
+    "l": 1053,
+    "rgt": 1156,
+    "top": 14,
+    "sz": "12px"
+   },
+   {
+    "t": "Deep",
+    "l": 1122,
+    "rgt": 1156,
+    "top": 374,
+    "sz": "11.5px"
+   },
+   {
+    "t": "Records & Tapes",
+    "l": 1028,
+    "rgt": 1156,
+    "top": 415,
+    "sz": "11.5px"
+   },
+   {
+    "t": "Expanded",
+    "l": 1088,
+    "rgt": 1156,
+    "top": 457,
+    "sz": "11.5px"
+   },
+   {
+    "t": "In stock",
+    "l": 1088,
+    "rgt": 1156,
+    "top": 498,
+    "sz": "11.5px"
+   },
+   {
+    "t": "Yes, really",
+    "l": 1062,
+    "rgt": 1156,
+    "top": 539,
+    "sz": "11.5px"
+   },
+   {
+    "t": "Hardware",
+    "l": 1088,
+    "rgt": 1156,
+    "top": 580,
+    "sz": "11.5px"
+   },
+   {
+    "t": "New at Finders 2.0",
+    "l": 1002,
+    "rgt": 1156,
+    "top": 622,
+    "sz": "11.5px"
+   },
+   {
+    "t": "Call the shop",
+    "l": 124,
+    "rgt": 278,
+    "top": 1205,
+    "sz": "12px"
+   },
+   {
+    "t": "Send a note",
+    "l": 292,
+    "rgt": 428,
+    "top": 1205,
+    "sz": "12px"
+   }
+  ],
+  "frames": [],
+  "navTrunc": false,
+  "textLen": 1755,
+  "status": 200
+ },
+ "desktop-contact": {
+  "iw": 1280,
+  "sw": 1280,
+  "overflow": [],
+  "smallN": 0,
+  "smallSample": [],
+  "broken": 0,
+  "blocks": [
+   {
+    "tag": "SECTION.sec",
+    "top": 74,
+    "bottom": 1640,
+    "h": 1566
+   }
+  ],
+  "tags": [
+   {
+    "t": "Call us",
+    "l": 1053,
+    "rgt": 1156,
+    "top": 14,
+    "sz": "12px"
+   },
+   {
+    "t": "Send to the shop",
+    "l": 124,
+    "rgt": 303,
+    "top": 1056,
+    "sz": "12px"
+   },
+   {
+    "t": "Limited, call firs",
+    "l": 968,
+    "rgt": 1130,
+    "top": 336,
+    "sz": "11.5px"
+   },
+   {
+    "t": "From December",
+    "l": 1019,
+    "rgt": 1130,
+    "top": 377,
+    "sz": "11.5px"
+   },
+   {
+    "t": "Early 2027",
+    "l": 1045,
+    "rgt": 1130,
+    "top": 418,
+    "sz": "11.5px"
+   },
+   {
+    "t": "Downtown Main St",
+    "l": 993,
+    "rgt": 1130,
+    "top": 459,
+    "sz": "11.5px"
+   }
+  ],
+  "frames": [
+   {
+    "w": 1032,
+    "h": 420,
+    "right": 1156,
+    "title": "Map showing Finders Records at 128 N. Main St, Bowling Green, Ohio"
+   }
+  ],
+  "navTrunc": false,
+  "textLen": 1069,
+  "status": 200
+ },
+ "desktop-privacy": {
+  "iw": 1280,
+  "sw": 1280,
+  "overflow": [],
+  "smallN": 0,
+  "smallSample": [],
+  "broken": 0,
+  "blocks": [
+   {
+    "tag": "SECTION.sec",
+    "top": 74,
+    "bottom": 624,
+    "h": 550
+   }
+  ],
+  "tags": [
+   {
+    "t": "Call us",
+    "l": 1053,
+    "rgt": 1156,
+    "top": 14,
+    "sz": "12px"
+   }
+  ],
+  "frames": [],
+  "navTrunc": false,
+  "textLen": 1114,
+  "status": 200
+ },
+ "desktop-thanks": {
+  "iw": 1280,
+  "sw": 1280,
+  "overflow": [],
+  "smallN": 0,
+  "smallSample": [],
+  "broken": 0,
+  "blocks": [
+   {
+    "tag": "SECTION.sec",
+    "top": 74,
+    "bottom": 422,
+    "h": 348
+   }
+  ],
+  "tags": [
+   {
+    "t": "Call us",
+    "l": 1053,
+    "rgt": 1156,
+    "top": 14,
+    "sz": "12px"
+   },
+   {
+    "t": "Back to the storef",
+    "l": 124,
+    "rgt": 353,
+    "top": 318,
+    "sz": "12px"
+   },
+   {
+    "t": "Browse the departm",
+    "l": 367,
+    "rgt": 597,
+    "top": 318,
+    "sz": "12px"
+   }
+  ],
+  "frames": [],
+  "navTrunc": false,
+  "textLen": 586,
+  "status": 200
+ },
+ "desktop-notfound": {
+  "iw": 1280,
+  "sw": 1280,
+  "overflow": [],
+  "smallN": 0,
+  "smallSample": [],
+  "broken": 0,
+  "blocks": [
+   {
+    "tag": "SECTION.sec",
+    "top": 74,
+    "bottom": 392,
+    "h": 318
+   }
+  ],
+  "tags": [
+   {
+    "t": "Call us",
+    "l": 1053,
+    "rgt": 1156,
+    "top": 14,
+    "sz": "12px"
+   },
+   {
+    "t": "Back to the storef",
+    "l": 124,
+    "rgt": 353,
+    "top": 288,
+    "sz": "12px"
+   },
+   {
+    "t": "Browse the departm",
+    "l": 367,
+    "rgt": 597,
+    "top": 288,
+    "sz": "12px"
+   },
+   {
+    "t": "Contact the shop",
+    "l": 611,
+    "rgt": 789,
+    "top": 288,
+    "sz": "12px"
+   }
+  ],
+  "frames": [],
+  "navTrunc": false,
+  "textLen": 529,
+  "status": 404
+ },
+ "map-desktop": {
+  "rect": {
+   "x": 124,
+   "y": 240,
+   "w": 1032,
+   "h": 420
+  }
+ },
+ "console-desktop": [
+  "Failed to load resource: the server responded with a status of 404 ()"
+ ],
+ "mobile-index": {
+  "iw": 390,
+  "sw": 390,
+  "overflow": [],
+  "smallN": 0,
+  "smallSample": [],
+  "broken": 0,
+  "blocks": [
+   {
+    "tag": "SECTION.hero",
+    "top": 294,
+    "bottom": 1343,
+    "h": 1048
+   },
+   {
+    "tag": "SECTION.sec",
+    "top": 1343,
+    "bottom": 2428,
+    "h": 1085
+   },
+   {
+    "tag": "SECTION.stats",
+    "top": 2428,
+    "bottom": 2862,
+    "h": 434
+   },
+   {
+    "tag": "SECTION.sec",
+    "top": 2862,
+    "bottom": 4120,
+    "h": 1257
+   }
+  ],
+  "tags": [
+   {
+    "t": "Call us",
+    "l": 24,
+    "rgt": 127,
+    "top": 234,
+    "sz": "12px"
+   },
+   {
+    "t": "Call (419) 352-767",
+    "l": 24,
+    "rgt": 228,
+    "top": 1184,
+    "sz": "12px"
+   },
+   {
+    "t": "Get directions",
+    "l": 24,
+    "rgt": 186,
+    "top": 1240,
+    "sz": "12px"
+   }
+  ],
+  "frames": [],
+  "navTrunc": false,
+  "textLen": 2872,
+  "status": 200
+ },
+ "mobile-shop": {
+  "iw": 390,
+  "sw": 390,
+  "overflow": [],
+  "smallN": 0,
+  "smallSample": [],
+  "broken": 0,
+  "blocks": [
+   {
+    "tag": "SECTION.sec",
+    "top": 294,
+    "bottom": 2006,
+    "h": 1712
+   }
+  ],
+  "tags": [
+   {
+    "t": "Call us",
+    "l": 24,
+    "rgt": 127,
+    "top": 234,
+    "sz": "12px"
+   },
+   {
+    "t": "Deep cut \u00b7 details",
+    "l": 212,
+    "rgt": 366,
+    "top": 680,
+    "sz": "11.5px"
+   },
+   {
+    "t": "details",
+    "l": 306,
+    "rgt": 366,
+    "top": 721,
+    "sz": "11.5px"
+   },
+   {
+    "t": "details",
+    "l": 306,
+    "rgt": 366,
+    "top": 782,
+    "sz": "11.5px"
+   },
+   {
+    "t": "Expanded section",
+    "l": 229,
+    "rgt": 366,
+    "top": 824,
+    "sz": "11.5px"
+   },
+   {
+    "t": "details",
+    "l": 306,
+    "rgt": 366,
+    "top": 885,
+    "sz": "11.5px"
+   },
+   {
+    "t": "Hardware",
+    "l": 298,
+    "rgt": 366,
+    "top": 926,
+    "sz": "11.5px"
+   },
+   {
+    "t": "New at Finders 2.0",
+    "l": 212,
+    "rgt": 366,
+    "top": 988,
+    "sz": "11.5px"
+   },
+   {
+    "t": "Arriving now",
+    "l": 264,
+    "rgt": 366,
+    "top": 1029,
+    "sz": "11.5px"
+   },
+   {
+    "t": "Planned",
+    "l": 306,
+    "rgt": 366,
+    "top": 1091,
+    "sz": "11.5px"
+   }
+  ],
+  "frames": [],
+  "navTrunc": false,
+  "textLen": 1628,
+  "status": 200
+ },
+ "mobile-vinyl": {
+  "iw": 390,
+  "sw": 390,
+  "overflow": [],
+  "smallN": 0,
+  "smallSample": [],
+  "broken": 0,
+  "blocks": [
+   {
+    "tag": "SECTION.sec",
+    "top": 294,
+    "bottom": 1474,
+    "h": 1179
+   },
+   {
+    "tag": "SECTION.sec",
+    "top": 1474,
+    "bottom": 2321,
+    "h": 847
+   }
+  ],
+  "tags": [
+   {
+    "t": "Call us",
+    "l": 24,
+    "rgt": 127,
+    "top": 234,
+    "sz": "12px"
+   },
+   {
+    "t": "Call the shop",
+    "l": 24,
+    "rgt": 178,
+    "top": 1920,
+    "sz": "12px"
+   },
+   {
+    "t": "Directions",
+    "l": 192,
+    "rgt": 320,
+    "top": 1920,
+    "sz": "12px"
+   },
+   {
+    "t": "Yes",
+    "l": 314,
+    "rgt": 340,
+    "top": 2069,
+    "sz": "11.5px"
+   },
+   {
+    "t": "New for 2026",
+    "l": 238,
+    "rgt": 340,
+    "top": 2111,
+    "sz": "11.5px"
+   },
+   {
+    "t": "In stock",
+    "l": 272,
+    "rgt": 340,
+    "top": 2152,
+    "sz": "11.5px"
+   },
+   {
+    "t": "Ask at the counter",
+    "l": 186,
+    "rgt": 340,
+    "top": 2193,
+    "sz": "11.5px"
+   }
+  ],
+  "frames": [],
+  "navTrunc": false,
+  "textLen": 1881,
+  "status": 200
+ },
+ "mobile-cds": {
+  "iw": 390,
+  "sw": 390,
+  "overflow": [],
+  "smallN": 0,
+  "smallSample": [],
+  "broken": 0,
+  "blocks": [
+   {
+    "tag": "SECTION.sec",
+    "top": 294,
+    "bottom": 1066,
+    "h": 772
+   },
+   {
+    "tag": "SECTION.sec",
+    "top": 1066,
+    "bottom": 1960,
+    "h": 894
+   }
+  ],
+  "tags": [
+   {
+    "t": "Call us",
+    "l": 24,
+    "rgt": 127,
+    "top": 234,
+    "sz": "12px"
+   },
+   {
+    "t": "Deep",
+    "l": 332,
+    "rgt": 366,
+    "top": 680,
+    "sz": "11.5px"
+   },
+   {
+    "t": "Records & Tapes",
+    "l": 238,
+    "rgt": 366,
+    "top": 741,
+    "sz": "11.5px"
+   },
+   {
+    "t": "Expanded",
+    "l": 298,
+    "rgt": 366,
+    "top": 782,
+    "sz": "11.5px"
+   },
+   {
+    "t": "In stock",
+    "l": 298,
+    "rgt": 366,
+    "top": 844,
+    "sz": "11.5px"
+   },
+   {
+    "t": "Yes, really",
+    "l": 272,
+    "rgt": 366,
+    "top": 885,
+    "sz": "11.5px"
+   },
+   {
+    "t": "Hardware",
+    "l": 298,
+    "rgt": 366,
+    "top": 926,
+    "sz": "11.5px"
+   },
+   {
+    "t": "New at Finders 2.0",
+    "l": 212,
+    "rgt": 366,
+    "top": 988,
+    "sz": "11.5px"
+   },
+   {
+    "t": "Call the shop",
+    "l": 24,
+    "rgt": 178,
+    "top": 1599,
+    "sz": "12px"
+   },
+   {
+    "t": "Send a note",
+    "l": 192,
+    "rgt": 328,
+    "top": 1599,
+    "sz": "12px"
+   }
+  ],
+  "frames": [],
+  "navTrunc": false,
+  "textLen": 1755,
+  "status": 200
+ },
+ "mobile-contact": {
+  "iw": 390,
+  "sw": 390,
+  "overflow": [],
+  "smallN": 0,
+  "smallSample": [],
+  "broken": 0,
+  "blocks": [
+   {
+    "tag": "SECTION.sec",
+    "top": 294,
+    "bottom": 2147,
+    "h": 1852
+   }
+  ],
+  "tags": [
+   {
+    "t": "Call us",
+    "l": 24,
+    "rgt": 127,
+    "top": 234,
+    "sz": "12px"
+   },
+   {
+    "t": "Send to the shop",
+    "l": 24,
+    "rgt": 203,
+    "top": 1388,
+    "sz": "12px"
+   },
+   {
+    "t": "Limited, call firs",
+    "l": 178,
+    "rgt": 340,
+    "top": 1536,
+    "sz": "11.5px"
+   },
+   {
+    "t": "From December",
+    "l": 229,
+    "rgt": 340,
+    "top": 1578,
+    "sz": "11.5px"
+   },
+   {
+    "t": "Early 2027",
+    "l": 255,
+    "rgt": 340,
+    "top": 1619,
+    "sz": "11.5px"
+   },
+   {
+    "t": "Downtown Main St",
+    "l": 203,
+    "rgt": 340,
+    "top": 1660,
+    "sz": "11.5px"
+   }
+  ],
+  "frames": [
+   {
+    "w": 342,
+    "h": 320,
+    "right": 366,
+    "title": "Map showing Finders Records at 128 N. Main St, Bowling Green, Ohio"
+   }
+  ],
+  "navTrunc": false,
+  "textLen": 1069,
+  "status": 200
+ },
+ "mobile-privacy": {
+  "iw": 390,
+  "sw": 390,
+  "overflow": [],
+  "smallN": 0,
+  "smallSample": [],
+  "broken": 0,
+  "blocks": [
+   {
+    "tag": "SECTION.sec",
+    "top": 294,
+    "bottom": 1135,
+    "h": 841
+   }
+  ],
+  "tags": [
+   {
+    "t": "Call us",
+    "l": 24,
+    "rgt": 127,
+    "top": 234,
+    "sz": "12px"
+   }
+  ],
+  "frames": [],
+  "navTrunc": false,
+  "textLen": 1114,
+  "status": 200
+ },
+ "mobile-thanks": {
+  "iw": 390,
+  "sw": 390,
+  "overflow": [],
+  "smallN": 0,
+  "smallSample": [],
+  "broken": 0,
+  "blocks": [
+   {
+    "tag": "SECTION.sec",
+    "top": 294,
+    "bottom": 740,
+    "h": 446
+   }
+  ],
+  "tags": [
+   {
+    "t": "Call us",
+    "l": 24,
+    "rgt": 127,
+    "top": 234,
+    "sz": "12px"
+   },
+   {
+    "t": "Back to the storef",
+    "l": 24,
+    "rgt": 253,
+    "top": 594,
+    "sz": "12px"
+   },
+   {
+    "t": "Browse the departm",
+    "l": 24,
+    "rgt": 253,
+    "top": 650,
+    "sz": "12px"
+   }
+  ],
+  "frames": [],
+  "navTrunc": false,
+  "textLen": 586,
+  "status": 200
+ },
+ "mobile-notfound": {
+  "iw": 390,
+  "sw": 390,
+  "overflow": [],
+  "smallN": 0,
+  "smallSample": [],
+  "broken": 0,
+  "blocks": [
+   {
+    "tag": "SECTION.sec",
+    "top": 294,
+    "bottom": 708,
+    "h": 413
+   }
+  ],
+  "tags": [
+   {
+    "t": "Call us",
+    "l": 24,
+    "rgt": 127,
+    "top": 234,
+    "sz": "12px"
+   },
+   {
+    "t": "Back to the storef",
+    "l": 24,
+    "rgt": 253,
+    "top": 505,
+    "sz": "12px"
+   },
+   {
+    "t": "Browse the departm",
+    "l": 24,
+    "rgt": 253,
+    "top": 561,
+    "sz": "12px"
+   },
+   {
+    "t": "Contact the shop",
+    "l": 24,
+    "rgt": 203,
+    "top": 617,
+    "sz": "12px"
+   }
+  ],
+  "frames": [],
+  "navTrunc": false,
+  "textLen": 529,
+  "status": 404
+ },
+ "map-mobile": {
+  "rect": {
+   "x": 24,
+   "y": 262,
+   "w": 342,
+   "h": 320
+  }
+ }
+}

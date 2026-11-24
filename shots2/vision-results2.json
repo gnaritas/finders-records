@@ -1,0 +1,18 @@
+{
+ "re-sheet-desktop-1.jpg": {
+  "answer": "VERDICT: DEFECTS: Page 2 The Shop - \"BOOKS ARE COMING TO THE RACKS\" section, last paragraph has text flowing out of its container on the right.",
+  "verdict": "VERDICT: DEFECTS: Page 2 The Shop - \"BOOKS ARE COMING TO THE RACKS\" section, last paragraph has text flowing out of its container on the right."
+ },
+ "re-sheet-desktop-2.jpg": {
+  "answer": "VERDICT: DEFECTS: Visit/Contact page: map frame (empty gap between the map and the 'Send to the shop' button), CDs & Tapes page: top section (misaligned columns of product categories and their descriptions), CDs & Tapes page: bottom section ('PLAY IT TONIGHT!' box has uneven padding on the left and right), 404 page: top section (uneven spacing between the title and the descriptive text).",
+  "verdict": "VERDICT: DEFECTS: Visit/Contact page: map frame (empty gap between the map and the 'Send to the shop' button), CDs & Tapes page: top section (misaligned columns of product categories and their descriptions), CDs & Tapes page: bottom section ('PLAY IT TONIGHT!' box has uneven padding on the left and right), 404 page: top section (uneven spacing between the title and the descriptive text)."
+ },
+ "re-sheet-mobile.jpg": {
+  "answer": "VERDICT: DEFECTS:\nHome page, About section: \"MAIN STREET \u2022 BOWLING GREEN, OHIO \u2022 BACK OPEN\" text is horizontally clipped.\nHome page, Hours Right Now section: \"(419) 352-7677\" phone number text is unreadably small.\nVisit/Contact page, Visit Finders Records section: \"Findersrecords71@gmail.com\" email address text is unreadably small.\nVisit/Contact page, Visit Finders Records section: \"Facebook: /findersrecords\" Facebook link text is unreadably small.\nCDs & Tapes page, Play It Tonight section: \"(419) 352-7677\" phone number text is unreadably small.",
+  "verdict": "VERDICT: DEFECTS:"
+ },
+ "map_crop.jpg": {
+  "answer": "The frame displays a rendered street map with various streets, blocks, and labels. Major streets like \"N Main St\", \"W Wooster St\", \"Ridge St\", and \"Pike St\" are clearly visible with their names. Blocks are defined by the intersection of these streets. Several businesses and landmarks are marked with icons and names, such as \"Jac & Do's Pizza\", \"Night Owl Diner\", \"Wood County Courthouse\", \"Easystreet Cafe\", \"Taco Bell\", \"Campus Pollyeyes\", \"Bowen-Thompson Student Union\", \"Founders Hall\", \"Arlyn's Good Beer\", and \"Beckett's Burger Bar & Barrel Room\". There is a prominent red location marker/pin with the number \"128\" centered on \"N Main St\", indicating the address \"128 N Main St\". In the top left corner, there's an information box displaying \"128 N Main St\" with the full address \"128 N Main St, Bowling Green, OH 43402, USA\" and an \"Open in Maps\" button. The bottom right corner features standard Google Maps controls including a zoom button and a full-screen toggle, along with copyright information (\"Map data \u00a92026 Google\"). A small satellite image thumbnail is visible in the bottom left.\n\nVERDICT: MAP-RENDERED",
+  "verdict": "VERDICT: MAP-RENDERED"
+ }
+}

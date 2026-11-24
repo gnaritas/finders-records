@@ -1,0 +1,34 @@
+{
+ "card": "t_5e0d4158",
+ "slug": "finders-records",
+ "shop": "Finders Records, 128 N. Main St, Bowling Green, OH 43402",
+ "date": "2026-11-24",
+ "closed_out_by": "attempt 2 (attempt 1 timed out at 7200s AFTER send+registry append; attempt 2 verified all legs and finished paperwork)",
+ "site": {
+  "pages": 8,
+  "verify_py": "PASS (fail=[] warn=[]) — pages 8, identical NAP footer, sitemap covers core pages, jsonld valid (MusicStore/Service/Breadcrumb/City), cta_above_fold, img_alt, noindex per page, max page 16.9KB",
+  "origin": "https://finders-records-demo.up.railway.app",
+  "deploy": {"project": "the-plain-bar 604a72a9-09eb-4169-920d-e64619651640 (co-host shell)", "service": "e8938003-95a7-4dd2-be62-c73a37d03237", "repo": "github.com/gnaritas/finders-records", "commit_head": "09de94b"},
+  "live_eq_local": "sha256 byte-identical on index/shop/vinyl-records/cds-tapes-dvds/contact/privacy + style.css (curl vs local, 2026-11-24 ~12:30 PST)",
+  "curl_walk": "all core pages 200 text/html correct titles; /healthz 200; /no-such-page 404 (custom); sitemap.xml + robots.txt serve; /open?t= 200 image/gif 43b; og.jpg 1200x630"
+ },
+ "form_relay": "POST /contact -> 303 -> /thanks 200 (live probe 2026-11-24 12:2x PST); railway logs tail: zero MAILERR lines after deploy",
+ "render_sweep": {
+  "pre_fix_pass": "worker 11:35 shots/ — vision flagged: 4px-scale sheet claims + MAP-BLANK + small text + m-index disc overflow@398",
+  "fixes": "commit 59aa52f (h1 semantics, 11.5px text floor, eager map iframe + directions fallback) + 09de94b (fact-accuracy pass + disc label floor), redeployed, live==local verified",
+  "post_fix_pass": "attempt 2, shots2/: live origin 8 routes x 2 viewports dsf2 — DOM gates ALL GREEN (0 overflow elements, smallN=0 every page/viewport, 0 broken imgs, no nav truncation, no glued/empty block junctions, iframe container 1032x420 desktop / 342x320 mobile)",
+  "sheet_vision": "OpenRouter gemini-flash battery 4 calls: claims measured to death — books paragraph 433<=434 content box scrollW==clientW; cds 'columns' are block labels in flex rows (no grid, uniform); PLAY IT TONIGHT padding 26px/26px symmetric; mobile ticker 342/342 not clipped right 366<390; phone/email/social links 13.5-14.5px >= floor",
+  "map": "MAP-RENDERED — native-res viewport capture: street grid + labels (N Main St/W Wooster St) + red pin 128 + address box '128 N Main St, Bowling Green, OH 43402, USA'; earlier MAP-BLANK was sweep-browser lazy-iframe artifact, fixed by eager loading; embed resource curl -A Chrome -L 200",
+  "verdict": "RENDER-SWEEP PASS 2026-11-24 (post-fix)"
+ },
+ "mail": {
+  "msg_id": "<179554961931.21458.17837493914702518217@onsmalltalk.com>",
+  "envelope": "send-envelope.json ok=true, to findersrecords71@gmail.com from jarvis+websites@onsmalltalk.com, subject 'Your new website is live — Finders Records' (v6, arm coin sha256(slug)%2=0 parity OK)",
+  "readback": "PASS uid 7695 [Gmail]/Sent Mail — msg-id equality + jarvis+websites X-Google-Original-From/Reply-To pair + subject word tokens (encoding-robust)",
+  "sent_local_time": "2026-11-24 14:47 EST (11:47 PST) — IN recipient window 07:00-17:00 America/New_York (tz_gate)",
+  "registry": "pitch row at physical line 5184, followup_due 2026-12-03, utm finders-records-t1, pixel true, cohort new_prospect, age_tag brand_new",
+  "lane_db": "events mirror line 5184 parity; pilot table row registered (v6, brand_new, mature_on 2026-12-10, status pending)"
+ },
+ "ladder": {"t2": "2026-12-03", "t3": "2026-12-10", "t4": "2026-12-17", "teardown_recheck_if_silent": ">= 2026-12-22 morning window"},
+ "facts_discipline": "no invented hours/prices; owner greeting plain (press split Broc/Brock); 100k stat framed owner estimate; reopening 2026-11-20 from Sent-trib 11-22 press proxy; sourced Blade quote on vinyl page"
+}
