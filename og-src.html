@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>og</title>
+<style>
+:root{--ink:#141210;--paper:#f2ecdd;--green:#1f6b3f;--green2:#35915a;--amber:#d99a2b;--dim:#cfc7b2;--disp:"Futura","Century Gothic","Trebuchet MS","Helvetica Neue",Arial,sans-serif;--mono:ui-monospace,"SF Mono",Menlo,Consolas,monospace;--body:Georgia,"Times New Roman",serif}
+*{box-sizing:border-box;margin:0;padding:0}
+body{width:1200px;height:630px;background:var(--ink);color:var(--paper);font-family:var(--body);overflow:hidden}
+.card{width:1200px;height:630px;display:grid;grid-template-columns:1fr 400px;gap:34px;padding:60px 64px;position:relative;background:linear-gradient(135deg,rgba(31,107,63,.22),rgba(20,18,16,0) 55%),var(--ink)}
+.kick{font:700 19px/1.4 var(--mono);letter-spacing:.34em;text-transform:uppercase;color:var(--amber);margin-bottom:22px}
+h1{font:800 116px/0.92 var(--disp);letter-spacing:.01em;text-indent:-.02em;text-transform:uppercase}
+.sub{font:700 19px/1 var(--mono);letter-spacing:.3em;text-transform:uppercase;color:#7fc796;margin-top:20px}
+.line{height:4px;width:190px;background:var(--green2);margin:34px 0 28px}
+.lede{font:italic 25px/1.5 Georgia,serif;color:#efe8d6;max-width:620px}
+.addr{position:absolute;left:64px;bottom:52px;font:600 16px/1.7 var(--mono);letter-spacing:.12em;color:var(--dim)}
+.disc{align-self:center;justify-self:center;position:relative;width:330px;height:330px;border-radius:50%;background:repeating-radial-gradient(circle at 50% 50%,#100e0b 0 2px,#1d1a15 2px 5px);box-shadow:0 24px 52px rgba(0,0,0,.55)}
+.disc .lbl{position:absolute;inset:31%;border-radius:50%;background:radial-gradient(circle at 50% 38%,var(--green2),var(--green) 70%);display:grid;place-items:center;text-align:center;color:#f4f8f2}
+.disc .lbl b{display:block;font:800 76px/1 var(--disp)}
+.disc .lbl small{display:block;font:700 10px/1.8 var(--mono);letter-spacing:.22em;text-transform:uppercase;color:#cfe4d3;margin-top:8px}
+.disc .hole{position:absolute;left:50%;top:50%;width:12px;height:12px;margin:-6px 0 0 -6px;border-radius:50%;background:var(--paper)}
+</style>
+</head>
+<body>
+<div class="card">
+<div>
+<p class="kick">Bowling Green, Ohio &middot; Back open</p>
+<h1>Finders<br>Records</h1>
+<p class="sub">Vinyl &bull; CDs &bull; Tapes &bull; DVDs &bull; VHS</p>
+<div class="line"></div>
+<p class="lede">The record store Bowling Green grew up on reopened November 20, 2026 — new and used vinyl under the sign you remember.</p>
+<p class="addr">128 N. MAIN ST &middot; SINCE 1971</p>
+</div>
+<div class="disc"><div class="lbl"><b>F<small>since 1971</small></b></div><div class="hole"></div></div>
+</div>
+</body>
+</html>

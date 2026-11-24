@@ -1,0 +1,9 @@
+{
+  "name": "finders-records-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Finders Records — record store, 128 N. Main St, Bowling Green OH. Template v2 T1 (2026-11-24, t_5e0d4158).",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
